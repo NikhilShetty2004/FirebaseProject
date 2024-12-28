@@ -19,16 +19,6 @@ A modern expense tracking application built with React, Material-UI, and Firebas
 - Material-UI (MUI)
 - React Router
 
-## Prerequisites
-
-Before you begin, ensure you have the following installed:
-- Node.js (version 14 or higher)
-- npm or yarn
-- A Firebase account and project
-
-
-
-
 ## Project Structure
 
 ```
